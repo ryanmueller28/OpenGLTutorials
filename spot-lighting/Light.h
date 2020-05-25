@@ -4,7 +4,6 @@
 #include <glm/glm.hpp>
 
 
-
 class Light{
 public:
     Light();
